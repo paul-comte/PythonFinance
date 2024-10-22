@@ -1,5 +1,4 @@
 # PythonFinance
-Python for finance
 
 All my python projects for market finance
 
