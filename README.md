@@ -8,3 +8,4 @@ Some of my python projects for market finance
 3. Long/short momentum/value Strategy on european stocks ("DATA.xlsx": required file for this project with returns, benchmark returns and price to book)
 4. Montecarlo simulation using Object Oriented Programming. This was my first project using class concept, I will further improve my skills in OOP in order to be able to deliver bigger, consistent projects.
 5. Logistic Regression: to predict the rise/fall of the Google share (binary value) considering the rises/falls of a series of shares over the same day (continuous values) (using sklearn: AUC, ROC analysis, RFE)
+6. In this tutorial, I study random trees and forests in the context of binary classification.
