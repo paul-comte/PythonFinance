@@ -1,6 +1,6 @@
 # PythonFinance
 
-All my python projects for market finance
+Some of my python projects for market finance
 
 **Projects**:
 1. S&P500 Study : OLS & Lasso Regression, SMA, trying to find a model to predict S&P500 with multiple variables
